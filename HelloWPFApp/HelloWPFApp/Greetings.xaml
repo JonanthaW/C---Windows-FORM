@@ -1,0 +1,20 @@
+﻿<Window x:Class="HelloWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWPFApp"
+        mc:Ignorable="d"
+        Title="Greetings" Height="450" Width="800">
+    <Grid Margin="0,-14,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="429*"/>
+            <RowDefinition Height="19*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Margin="0,47,0,0" TextWrapping="Wrap" Text="Select a message option and then choose the Display button." VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <RadioButton x:Name="HelloButton" Content="Hello" Margin="221,182,527,0" IsChecked="true" VerticalAlignment="Top"/>
+        <RadioButton x:Name="GoodbyeButton" Content="GoodBye" HorizontalAlignment="Left" Margin="522,182,0,0" VerticalAlignment="Top"/>
+        <Button Content="Display" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+
+    </Grid>
+</Window>
