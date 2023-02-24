@@ -1,5 +1,5 @@
-# C#-Windows-FORM
+# C#-WPF
 
-O Windows Forms é uma estrutura de interface do usuário para a criação de aplicativos da área de trabalho do Windows. Ele fornece uma das maneiras mais produtivas de criar aplicativos da área de trabalho com base no designer visual fornecido no Visual Studio. A funcionalidade, como o posicionamento de arrastar e soltar de controles visuais, facilita a criação de aplicativos da área de trabalho.
+O WPF, ou Windows Presentation Foundation, é uma estrutura de interface do usuário (interface do usuário) que cria aplicativos cliente da área de trabalho. A plataforma de desenvolvimento WPF dá suporte a um amplo conjunto de recursos de desenvolvimento de aplicativos, incluindo um modelo de aplicativo, recursos, controles, gráficos, layouts, associação de dados, documentos e segurança.
 
-Com o Windows Forms, você desenvolve aplicativos graficamente avançados que são fáceis de implantar, atualizar e trabalhar enquanto estão offline ou enquanto estão conectados à Internet. Os aplicativos do Windows Forms podem acessar o hardware local e o sistema de arquivos do computador em que o aplicativo está em execução.
+O WPF faz parte do .NET, portanto, se você já criou aplicativos com o .NET usando ASP.NET ou Windows Forms, a experiência de programação deve ser familiar. O WPF usa o XAML extensível de linguagem de marcação de aplicativo para fornecer um modelo declarativo para programação de aplicativos. Para obter mais informações, consulte Visão geral do .NET do WPF.
