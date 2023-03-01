@@ -1,7 +1,7 @@
 O projeto envolve um botão que ao ser pressionado apresenta uma mensagem ao usuário.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JonanthaW/Exatas/main/EnergiaCinetica/images/kinetic.jpg"/>
+  <img src="https://github.com/JonanthaW/CSharp-WPF/blob/main/HelloWPFApp/images/screen.png"/>
 </p>
 
 # Referências
